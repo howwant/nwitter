@@ -1,3 +1,9 @@
+노마드코드의 트위터를 따라한 느위트입니다. 클론코딩으로 리액트의 데이터 전송과 수신을 배우기 위해 공부했습니다.
+
+#배포 주소
+https://howwant.github.io/nwitter/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
